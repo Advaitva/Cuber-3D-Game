@@ -2,6 +2,6 @@
 Unity based 3D cube game.
 
 
-## Do you have it !!
+## Not just any game!!
 
 ![](gameplay.gif)
